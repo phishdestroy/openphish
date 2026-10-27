@@ -14,4 +14,4 @@ concurrency:
 
 jobs:
   sync:
-    uses: phishdestroy/phishdestroy/.github/workflows/sync-fork-reusable.yml@cfe9042df98bf95c1db32a8aae41f81b82a7b27d
+    uses: phishdestroy/phishdestroy/.github/workflows/sync-fork-reusable.yml@4e1a20b98116fb5da504bad0f0f2b182c9562d20
