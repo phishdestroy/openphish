@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-07T16:36:03.514458+00:00",
+  "checked_at": "2026-11-08T01:45:06.745882+00:00",
   "upstream": "openphish/public_feed",
   "upstream_branch": "main",
-  "upstream_commit": "533432f0e82139850cbffc59be4c434b8b669711",
+  "upstream_commit": "ca021a676e8f60750559014833776a6ff0c60a4d",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
